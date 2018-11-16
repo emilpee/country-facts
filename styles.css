@@ -1,0 +1,46 @@
+body {
+    background-color: #ccc;
+    font-family: 'Helvetica Neue';
+}
+
+p {
+    color: crimson;
+}
+
+span {
+    color: black;
+}
+
+select {
+    width: 100%;
+    height: 35px;
+    font-size: 17px;
+    color: white;
+    background-color: black;
+}
+
+img {
+    height: 200px;
+    max-width: 300px;
+    border: 1px solid lightslategray;
+}
+
+#countryContainer {
+    display: block;
+    padding: 20px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: #eee;
+    border: 5px double black;
+}
+
+#flagContainer {
+    width: 300px;
+    float: left;
+    padding-right: 18px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+}
